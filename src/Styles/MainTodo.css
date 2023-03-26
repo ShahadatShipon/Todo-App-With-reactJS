@@ -1,0 +1,14 @@
+body {
+  background-color: rgba(146, 175, 189, 0.356);
+}
+
+.card {
+  background: transparent;
+}
+input[type="text"] {
+  background: transparent;
+}
+
+.row > * {
+  padding-right: 0px;
+}
